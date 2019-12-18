@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thoughtfulclown/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/thoughtfulclown/static/js/main.b46d7893.chunk.js",
+    "main.js.map": "/thoughtfulclown/static/js/main.b46d7893.chunk.js.map",
+    "runtime-main.js": "/thoughtfulclown/static/js/runtime-main.0ca1cbd7.js",
+    "runtime-main.js.map": "/thoughtfulclown/static/js/runtime-main.0ca1cbd7.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/thoughtfulclown/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.4ec1bd07.chunk.js": "/thoughtfulclown/static/js/2.4ec1bd07.chunk.js",
+    "static/js/2.4ec1bd07.chunk.js.map": "/thoughtfulclown/static/js/2.4ec1bd07.chunk.js.map",
+    "index.html": "/thoughtfulclown/index.html",
+    "precache-manifest.7086c0b1e261ca85d9501d473b8633a7.js": "/thoughtfulclown/precache-manifest.7086c0b1e261ca85d9501d473b8633a7.js",
+    "service-worker.js": "/thoughtfulclown/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/thoughtfulclown/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.8ab6f918.chunk.css.map": "/thoughtfulclown/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.4ec1bd07.chunk.js.LICENSE": "/thoughtfulclown/static/js/2.4ec1bd07.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ca1cbd7.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.4ec1bd07.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.b46d7893.chunk.js"
+  ]
+}
