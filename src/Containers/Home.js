@@ -15,7 +15,7 @@ export default function Home() {
         }}
       >
         <ReactPlayer
-          url="../logoproxy.mp4"
+          url="logoproxy.mp4"
           playing
           muted
           width="88.5%"
