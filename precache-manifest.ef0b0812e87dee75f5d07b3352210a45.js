@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1886a76bf2aba83cd211751938b6196",
+    "revision": "7f6dbd789f1e262dc1d8b691d3ec4e18",
     "url": "/thoughtfullclown/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thoughtfullclown/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "8a0e7d789ff16f8a65e2",
+    "revision": "4f9dccb269d6056147b5",
     "url": "/thoughtfullclown/static/css/main.c50ee306.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thoughtfullclown/static/js/2.430b7e64.chunk.js.LICENSE"
   },
   {
-    "revision": "8a0e7d789ff16f8a65e2",
-    "url": "/thoughtfullclown/static/js/main.68f38ac1.chunk.js"
+    "revision": "4f9dccb269d6056147b5",
+    "url": "/thoughtfullclown/static/js/main.1c8f7ddd.chunk.js"
   },
   {
     "revision": "28a9b0a793e7a62318be",
